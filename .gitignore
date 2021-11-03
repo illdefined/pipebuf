@@ -1,0 +1,6 @@
+# Hidden files
+.*
+!.git*
+
+# Binary
+/pipebuf
